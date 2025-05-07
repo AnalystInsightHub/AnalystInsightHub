@@ -57,19 +57,9 @@
 
 <h3 align="left">Projects:</h3>
 
-### ☕ Coffee Orders Project
-This project analyzes and organizes data related to coffee orders collected over time. The dataset includes details such as customer names, coffee types, sizes, prices, and order dates. It's ideal for practicing data cleaning, transformation, and visualization using tools like Excel, Python (pandas), or SQL.
+### [☕ Coffee Orders Project](https://github.com/AnalystInsightHub/AnalystInsightHub/blob/main/coffeeOrdersProject.xlsx)
 
-**Key Features:**
-- Structured coffee order dataset in Excel format
-- Columns include: `Customer`, `Coffee Type`, `Size`, `Price`, and `Order Date`
-- Great for beginner to intermediate data analysis practice
 
-**Use Cases:**
-- Dashboard creation
-- SQL or Python data analysis
-- Customer behavior or trend analysis
-
-📁 [Coffee Sales Dashboard](#) (https://github.com/AnalystInsightHub/AnalystInsightHub/blob/main/coffeeOrdersProject.xlsx)
+### [📊 PWC Job Simulation Project](https://github.com/AnalystInsightHub/AnalystInsightHub/blob/main/Diversity%20%26%20Inclusion.pbix)
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=analystinsighthub&show_icons=true&locale=en&layout=compact" alt="analystinsighthub" /></p>
